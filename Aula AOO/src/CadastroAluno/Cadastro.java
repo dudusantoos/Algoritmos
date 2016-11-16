@@ -28,22 +28,20 @@ public class Cadastro {
 	}
 
 	private static void LocalizarAlunos() {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 	private static void InserirAlunos() {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 	private static void ListarAlunos() {
-		// TODO Auto-generated method stub
+		
 
 	}
 
 	private static int opcaoMenuPrincipal() {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
